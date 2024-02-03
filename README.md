@@ -1,3 +1,3 @@
 # Hello, world!
 
-I am studying in Netology
+03.02.2024
